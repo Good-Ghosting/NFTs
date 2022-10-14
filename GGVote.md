@@ -66,13 +66,11 @@
 - Save2Save - Plastiks	Celo	440
 - Curve Pioneer - Stable 	Polygon	500
 - Curve Pioneer - Volatile	Polygon	500
-- Hodl Pioneer	Celo	888
-- The Longer Save	Polygon	480
-- EthicHub Savings Pool	Celo	840
 - Eth Merge hodl Pool	Polygon	320
-- Pumpkin Savers - Small	Polygon	100
-- Pumpkin Savers - Grande	Polygon	200
-- Save for Christmas	Celo	720
+- Pumpkin Savers - Small	Polygon	100 (once pool finishes)
+- Pumpkin Savers - Grande	Polygon	200 (once pool finishes)
+- Save for Christmas	Celo	720 (once pool finishes)
+- Evil Pool	Polygon	666 (once pool finishes)
 
 		
 		

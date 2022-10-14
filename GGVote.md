@@ -74,7 +74,9 @@
 
 		
 		
-		
+## More information
+Read the Blog post: https://medium.com/goodghosting/kicking-off-governance-create-your-own-pools-with-over-75k-in-prizes-f5b0ac59675a?source=friends_link&sk=db356e7a14b4219077632825a185a0f0 or check out the Snapshot page settings for https://snapshot.org/#/celo.goodghosting.eth/settings and https://snapshot.org/#/polygon.goodghosting.eth/settings
+
 		
 		
 		

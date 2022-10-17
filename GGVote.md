@@ -10,11 +10,11 @@
 |GoodGhosting NFT collection (3D Blender Ghosts)|Polygon|2,500|	0x86c45705d3ed8db4d43328327cf992ff43f3bdb9
 |Friends of GoodGhosting|Celo|2,000|	0xe2dC4E9c1ea7524725DC3a9ea1b0ee7c6E7a07A6
 |Friends of GoodGhosting|Polygon|2,000|	0xe5af968075c29cf572701817a2bf495ff5c0b702
-|Beta Pool|Polygon|850|	0x963d2ee26f5dd4ffe2cc718fddf4f734950c611f
+|Beta Pool|Polygon|850|	0x963d2ee26f5dd4ffe2cc718fddf4f734950c611f*
 |Meta Gamma Delta|Polygon|0|	#N/A
-|EthCC Savings Pool 🇫🇷|Polygon|400|	0x963d2eE26f5DD4Ffe2Cc718FdDF4f734950C611F
-|🌞 Summer Savers 🌞|Polygon|2,000|	0x963d2eE26f5DD4Ffe2Cc718FdDF4f734950C611F
-|Mask Network Pool|Polygon|400|	0x310919ead79d6ab4fa026b7da3017178dd9dd482
+|EthCC Savings Pool 🇫🇷|Polygon|400|	0x963d2eE26f5DD4Ffe2Cc718FdDF4f734950C611F*
+|🌞 Summer Savers 🌞|Polygon|2,000|	0x963d2eE26f5DD4Ffe2Cc718FdDF4f734950C611F*
+|Mask Network Pool|Polygon|400|	0x310919ead79d6ab4fa026b7da3017178dd9dd482*
 |Monthly 200 DAI Pool|Polygon|9,600|	0xE61619b18Cd6307925eF0606BA68d33564795274
 |Monthly 50 DAI Pool|Polygon|2,400|	0x8bd72F4A69Fc5581538Ef955824386a8e55F153B
 |Bankless DAO Pool|Polygon|3,000|	0x70b52261296f083Dd8aeeA4Fa18A4CE1eC0D5C52
@@ -70,6 +70,7 @@ Kenyan Digital Microworkers 🇰🇪|Celo|0|	#N/A
 |Pumpkin Savers - Grande|Polygon|200| (once pool finishes)
 |Evil Pool|Polygon|666| (once pool finishes)
 		
+<i>Addresses with a * appended, share the same contract address for multiple NFT designs, but have a different Token ID.</i>
 		
 ## More information
 Read the Blog post: https://medium.com/goodghosting/kicking-off-governance-create-your-own-pools-with-over-75k-in-prizes-f5b0ac59675a?source=friends_link&sk=db356e7a14b4219077632825a185a0f0 or check out the Snapshot page settings for https://snapshot.org/#/celo.goodghosting.eth/settings and https://snapshot.org/#/polygon.goodghosting.eth/settings

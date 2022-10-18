@@ -12,7 +12,7 @@ Description (max 30 words):
 ## Pool Parameters
 |Name|Value|
 |---|---|
-|Network|Celo|
+|Network| << Celo or Polygon >> |
 |Pool Type|<< Savings or HODL >>|
 |Deposit currency|<< Specify >>|
 |Deposit amount|<< Specify how much of the deposit currency needs to be deposited each time. Maximum $10k worth. >>|

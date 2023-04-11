@@ -91,6 +91,8 @@ Blue Plaid Pool 	|	Polygon	|	720	|	0xDA696B91dFb3f2c0e0aAdb5286F71Cab5366bA4F
 Resolutions to Riches	|	Celo	|	920	|	0x96e20E255050142B41B37925C12F3f961221D995
 The Warrior Pool	|	Celo	|	514	|	0xa68257D04494f4f1Cf9dDbb48F5eC36FccC2C28D
 Saving, one dollar at a time	|	Celo	|	21	|	0xB98F20dDE22fA6cdf895379070efF2A391DAB4d7
+Polygon Quest - Save $10 Bi-Weekly |	Polygon	|	240	|	0x7845574f71d9472a6C3b35f4aaAda74953755cB8
+Polygon Quest - Set your goal |	Polygon	|	240	|	0x7845574f71d9472a6C3b35f4aaAda74953755cB8
 
 		
 <i>Addresses with a * appended, share the same contract address for multiple NFT designs, but have a different Token ID.</i>

@@ -1,17 +1,16 @@
 ## NFT or Pool Name and GGVote weights
 | NFT or Pool Name | Blockchain | GGVote weightage | NFT contract address |
 |---|---|---|---|
-|GoodGhosting Core Team|Polygon|50,000|	0x181f30AC9Bc3199c21baA342640c356B0c461CEc
-|GoodGhosting Core Team|Celo|50,000|	0x5F7B5A4B0B2a19F46088BB116Ce6EAec4F5621Fd
-|GoodGhosting Contributor|Polygon|15,000|	0x70ee3d4caae9a3eed885cc94b913e930f2582e55
-|GoodGhosting Contributor|Celo|15,000|	0x7c2b705cd07AcECcC3401b793b79eEad846350E0
 |Community Hero NFT|Celo|5,000|	0x71C357eD4e17F0054Fea50631f4485736af5FDcb
 |Community Hero NFT|Polygon|5,000|	0x5b7eee4cbb9aad68fa884fd65f93080a3486f788
 |GoodGhosting NFT collection (3D Blender Ghosts)|Polygon|2,500|	0x86c45705d3ed8db4d43328327cf992ff43f3bdb9
-|Friends of GoodGhosting|Celo|2,000|	0xe2dC4E9c1ea7524725DC3a9ea1b0ee7c6E7a07A6
-|Friends of GoodGhosting|Polygon|2,000|	0xe5af968075c29cf572701817a2bf495ff5c0b702
 |Polygon DeGens Galxe|Polygon|250|	0x049599288fccE1D71fb359795540b931273bbfed
 |HaloFi Mystery Box Challenge Galxe|Polygon|1,000|	0x56448208efD446A1e5F1264b7153faa66a5C4233
+|My First Deposit Badge|Polygon|100| 0x750181AC14FA17df6A62A9B5602C7B541a04E726* (tokenID 0) 
+|Easter Weekender Badge|Polygon|200| 0x750181AC14FA17df6A62A9B5602C7B541a04E726* (tokenID 1)
+|Top 1000 Badge|Polygon|500| 0x750181AC14FA17df6A62A9B5602C7B541a04E726* (tokenID 2)
+|Vote Booster|Polygon|1,000 | 0x750181AC14FA17df6A62A9B5602C7B541a04E726* (tokenId 3)
+|Vote Booster|Celo|1,000 | 0xA553FeDB4EEc005C0480172199B0B24307FFd0Ae
 |Beta Pool|Polygon|850|	0x963d2ee26f5dd4ffe2cc718fddf4f734950c611f*
 |Meta Gamma Delta|Polygon|0|	#N/A
 |EthCC Savings Pool 🇫🇷|Polygon|400|	0x963d2eE26f5DD4Ffe2Cc718FdDF4f734950C611F*
@@ -93,8 +92,13 @@ The Warrior Pool	|	Celo	|	514	|	0xa68257D04494f4f1Cf9dDbb48F5eC36FccC2C28D
 Saving, one dollar at a time	|	Celo	|	21	|	0xB98F20dDE22fA6cdf895379070efF2A391DAB4d7
 Polygon Quest - Save $10 Bi-Weekly |	Polygon	|	240	|	0x7845574f71d9472a6C3b35f4aaAda74953755cB8
 Polygon Quest - Set your goal |	Polygon	|	240	|	0x7845574f71d9472a6C3b35f4aaAda74953755cB8
+|GoodGhosting Core Team|Polygon|50,000|	0x181f30AC9Bc3199c21baA342640c356B0c461CEc
+|GoodGhosting Core Team|Celo|50,000|	0x5F7B5A4B0B2a19F46088BB116Ce6EAec4F5621Fd
+|GoodGhosting Contributor|Polygon|15,000|	0x70ee3d4caae9a3eed885cc94b913e930f2582e55
+|GoodGhosting Contributor|Celo|15,000|	0x7c2b705cd07AcECcC3401b793b79eEad846350E0
+|Friends of GoodGhosting|Celo|2,000|	0xe2dC4E9c1ea7524725DC3a9ea1b0ee7c6E7a07A6
+|Friends of GoodGhosting|Polygon|2,000|	0xe5af968075c29cf572701817a2bf495ff5c0b702
 
-		
 <i>Addresses with a * appended, share the same contract address for multiple NFT designs, but have a different Token ID.</i>
 		
 ## More information
